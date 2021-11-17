@@ -57,6 +57,8 @@
     color: #dd22f6;
     font-weight: bold;
     text-shadow: 1px 1px 1px black;
+    background: rgb(214, 200, 200);
+    box-shadow: 0 3px 4px #dd22f6;;
 }
 
 .toggle {
@@ -78,5 +80,6 @@
 .menu.active .toggle {
     transform: rotate(360deg);
     color: #dd22f6;
+    background: rgb(214, 200, 200);
 }
 
